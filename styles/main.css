@@ -1,0 +1,25 @@
+body {
+    background-color: #eee;
+    color: #333;
+    display: flex;
+}
+
+.rep {
+    background-color: #ddd;
+    padding: 7px;
+}
+
+.rep h1 {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.rep h2 {
+    font-size: 1em;
+    margin: 0;
+}
+
+.rep__links {
+    display: flex;
+    justify-content: space-around;
+}
